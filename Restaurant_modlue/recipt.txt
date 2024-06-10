@@ -1,0 +1,6 @@
+Pizza Quantity: 1  Large
+Burger Quantity: 1  Classic
+Soft Drink Quantity: 0
+Extra Cheese: False
+Extra Ketchup: False
+Total Price: 15
